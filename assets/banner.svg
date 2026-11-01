@@ -10,7 +10,7 @@
   <rect x="60" y="53" width="42" height="5" rx="2.5" fill="#69ead2"/>
   <text x="60" y="98" fill="#c0d0df" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="4">SEUNG GWAN / DEVELOPMENT NOTES</text>
   <text x="58" y="164" fill="#f5f8fc" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700">Learning into projects.</text>
-  <text x="61" y="211" fill="#a9bfce" font-family="Arial, Helvetica, sans-serif" font-size="19">Web · Java · Python · Unity · Generative AI</text>
+  <text x="61" y="211" fill="#a9bfce" font-family="Arial, Helvetica, sans-serif" font-size="19">Web · Java · Python · Unity · Unreal Engine · Generative AI</text>
   <path d="M898 198l52-62 50 28 58-83 75 19" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
   <g fill="#69ead2"><circle cx="898" cy="198" r="6"/><circle cx="950" cy="136" r="6"/><circle cx="1000" cy="164" r="6"/><circle cx="1058" cy="81" r="6"/><circle cx="1133" cy="100" r="6"/></g>
 </svg>

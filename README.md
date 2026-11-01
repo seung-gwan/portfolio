@@ -4,7 +4,7 @@
 
 **배운 내용을 코드로 옮기고, 결과와 다음 과제를 기록합니다.**
 
-웹, Java, Python, Unity와 생성형 AI를 공부하며 남긴 작업을 모았습니다.
+웹, Java, Python, Unity, Unreal Engine과 생성형 AI를 공부하며 남긴 작업을 모았습니다.
 프로젝트에서는 화면과 기능을, 학습 기록에서는 사용한 개념과 실습 코드를 확인할 수 있습니다.
 
 [GitHub 프로필](https://github.com/seung-gwan) · [프로젝트](#프로젝트) · [학습 기록](learning/README.md) · [공개 자료의 범위](SOURCES.md)
@@ -29,13 +29,38 @@
 
 [소스 코드](https://github.com/seung-gwan/web_) · [프로젝트 설명과 실행 방법](projects/jsp-car-market.md)
 
+### 03. 손오공 — Unity 2D 액션 팀 프로젝트
+
+떨어지는 물체를 공격·방어·회피하며 점수를 얻는 PC용 미니게임입니다.
+이동·점프부터 낙하물 판정, 경고 UI, 체력·점수와 게임오버까지 이어지는 흐름을 구현했습니다.
+
+**공동 기획 / 게임 구현 전반: 유승관 / 이미지 디자인: 이승훈**
+
+`Unity` `C#` `2D Physics` `UI`
+
+[시연 영상](https://github.com/seung-gwan/game-dev-studies/releases/download/showcase-2026-06/unity-final-gameplay.mp4) · [제작 과정과 기여](projects/unity-son-ogong.md) · [소스 코드](https://github.com/seung-gwan/game-dev-studies/tree/main/unity/project_New)
+
+![손오공 시연 화면](https://raw.githubusercontent.com/seung-gwan/game-dev-studies/main/media/unity-final-gameplay.jpg)
+
+### 04. Unreal Engine — 환경 제작과 아포칼립스 구상
+
+실내 조명, 지형·건물 배치에서 시작해 마을·도시 장면으로 이어지는 제작 과정입니다.
+3월부터 6월까지의 작업 화면, 과제 영상과 기획 자료를 날짜 근거와 함께 정리했습니다.
+
+`Unreal Engine 5.0` `Level Design` `Lighting` `Blueprint`
+
+[날짜별 제작 과정](https://github.com/seung-gwan/game-dev-studies/blob/main/docs/unreal-timeline.md) · [프로젝트 소개](projects/unreal-environment.md) · [맵 자료](https://github.com/seung-gwan/game-dev-studies/tree/main/unreal)
+
+![언리얼 마을 환경](https://raw.githubusercontent.com/seung-gwan/game-dev-studies/main/media/unreal-village.png)
+
 ## 학습 기록
 
 | 분야 | 공부한 개념 | 결과물 · 기록 |
 | --- | --- | --- |
 | Java | 생성자, 캡슐화, 컬렉션, 이벤트 처리 | [계좌 모델 · Swing 전화번호부](learning/java.md) |
 | Python | 조건·반복, 문자열, 재귀, 이진 탐색 트리 | [문자 변환 · 트리 경로 탐색](learning/python.md) |
-| Unity · C# | 입력, 이동, 물리, UI, 카메라, 장면 전환 | [2D 게임 실습](learning/unity.md) |
+| Unity · C# | 입력·물리, 공격·방어, UI, 장면 전환 | [손오공 팀 프로젝트와 6개 학습 프로젝트](learning/unity.md) |
+| Unreal Engine | 조명, 지형·환경 배치, 맵과 블루프린트 | [날짜별 환경 제작 기록](learning/unreal-engine.md) |
 | 생성형 AI | Dataset, U-Net, 조건부 DDPM, 학습 로그 | [이모지 생성 실습](learning/generative-ai.md) |
 | 웹 기초 | HTML 태그, CSS 선택자·레이아웃, JavaScript 함수 | [웹 기초 예제](learning/web-basics.md) |
 

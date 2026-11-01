@@ -1,9 +1,24 @@
-# Unity · C# — 입력과 2D 게임 동작
+# Unity · C# — 팀 프로젝트와 게임 학습
 
 **입력한 값을 이동으로 연결하고, 게임 상태를 화면에 표시하는 과정을 실습했습니다.**
 
 학교 프로젝트 설정에 기록된 Unity 버전은 `6000.0.69f1`입니다.
-이 저장소에는 자동차 실습의 핵심 C# 스크립트를 보관합니다.
+자동차 실습의 핵심 스크립트와 함께 [게임 개발 저장소](https://github.com/seung-gwan/game-dev-studies/tree/main/unity)에 6개 프로젝트의 C# 코드·장면·프리팹과 설정을 보관했습니다.
+
+## 팀 프로젝트 — 손오공
+
+떨어지는 물체를 공격·방어·회피하며 점수를 얻는 2D 액션 게임입니다.
+이동·점프, 낙하물 생성·판정, 경고 UI, 체력·점수와 게임오버 흐름을 구현했습니다.
+
+**공동 기획 / 게임 구현 전반: 유승관 / 이미지 디자인: 이승훈**
+
+[제작 과정과 코드](https://github.com/seung-gwan/game-dev-studies/tree/main/unity/project_New) · [최종 시연](https://github.com/seung-gwan/game-dev-studies/releases/download/showcase-2026-06/unity-final-gameplay.mp4)
+
+제공된 영상의 플레이 장면을 확인했으며, 현재 공개본의 에디터 실행·새 빌드는 별도로 수행하지 않았습니다.
+
+## 추가 실습
+
+[Car_Game, Cat, ClimbCloud, 룰렛, C# 기초 실습 목록](https://github.com/seung-gwan/game-dev-studies/blob/main/unity/README.md)
 
 ## 1. 자동차 조작과 거리 표시
 

@@ -7,7 +7,8 @@
 | --- | --- | --- |
 | [Java](java.md) | 클래스, 생성자, 캡슐화, HashMap, Swing 이벤트 | 계좌 실습, 전화번호부 |
 | [Python](python.md) | 문자열, 조건·반복, 재귀, 자료구조 | 문자 코드 변환, 이진 탐색 트리 |
-| [Unity · C#](unity.md) | 입력·이동, 물리, UI, 카메라, 장면 전환 | 자동차 게임, 점프 실습 |
+| [Unity · C#](unity.md) | 이동·전투·물리, UI, 장면 전환 | 손오공 팀 프로젝트와 6개 학습 프로젝트 |
+| [Unreal Engine](unreal-engine.md) | 실내 조명, 지형·건물·마을·도시 배치 | 날짜별 제작 과정, 2개 프로젝트의 맵 |
 | [생성형 AI](generative-ai.md) | Dataset, U-Net, 조건부 DDPM | 이모지 생성 실습, 학습 로그 |
 | [웹 기초](web-basics.md) | HTML, CSS, JavaScript | 태그·선택자·레이아웃·함수 예제 |
 
