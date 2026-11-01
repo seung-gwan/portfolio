@@ -1,5 +1,3 @@
-![Learning into projects](assets/banner.svg)
-
 # 유승관의 개발 학습 · 프로젝트 기록
 
 **배운 내용을 코드로 옮기고, 결과와 다음 과제를 기록합니다.**
