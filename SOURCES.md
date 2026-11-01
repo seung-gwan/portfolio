@@ -9,6 +9,8 @@
 | [Web_Lecture](https://github.com/seung-gwan/Web_Lecture) | HTML·CSS·JavaScript 예제 파일 구성 |
 
 기존 프로젝트의 코드와 실행 안내는 각 원본 저장소에서 관리합니다.
+기존 GitHub 공개 저장소 12개를 [전체 목록](github-projects.md)에 정리했습니다. 추가한 웹·Git 학습 기록은 rwd, jeju, funweb, mobile, WEB, Homework, MyFirstProject, MyProfile-Web의 파일 구성과 주요 소스를 근거로 작성했습니다.
+WEBSpring은 API에서 파일·커밋이 없는 초기 저장소로 확인했습니다.
 이 포트폴리오의 프로젝트 설명은 2026-11-02에 확인한 내용을 기준으로 정리했습니다.
 
 ## 학교 학습 자료

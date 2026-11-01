@@ -11,5 +11,9 @@
 | [Unreal Engine](unreal-engine.md) | 실내 조명, 지형·건물·마을·도시 배치 | 날짜별 제작 과정, 2개 프로젝트의 맵 |
 | [생성형 AI](generative-ai.md) | Dataset, U-Net, 조건부 DDPM | 이모지 생성 실습, 학습 로그 |
 | [웹 기초](web-basics.md) | HTML, CSS, JavaScript | 태그·선택자·레이아웃·함수 예제 |
+| [웹 페이지 제작](web-archive.md) | 반응형·기업형·모바일 레이아웃과 페이지 연결 | rwd, jeju, funweb, mobile, Homework |
+| [Git · Markdown](git-basics.md) | VS Code 연결, 브랜치와 파일 작성 | MyFirstProject, MyProfile-Web |
+
+[기존 GitHub 공개 저장소 12개 전체 목록](../github-projects.md)
 
 [전체 포트폴리오](../README.md) · [자료 출처와 선별 기준](../SOURCES.md)

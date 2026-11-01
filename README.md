@@ -7,6 +7,10 @@
 
 [GitHub 프로필](https://github.com/seung-gwan) · [프로젝트](#프로젝트) · [학습 기록](learning/README.md) · [공개 자료의 범위](SOURCES.md)
 
+**[기존 GitHub 작업 전체 목록 — 공개 저장소 12개](github-projects.md)**
+
+기존 저장소의 웹 프로젝트, 기초 예제와 Git 실습을 함께 정리했습니다. 원본 코드는 각 저장소로 연결합니다.
+
 ## 프로젝트
 
 ### 01. Smart Farm
@@ -61,6 +65,8 @@
 | Unreal Engine | 조명, 지형·환경 배치, 맵과 블루프린트 | [날짜별 환경 제작 기록](learning/unreal-engine.md) |
 | 생성형 AI | Dataset, U-Net, 조건부 DDPM, 학습 로그 | [이모지 생성 실습](learning/generative-ai.md) |
 | 웹 기초 | HTML 태그, CSS 선택자·레이아웃, JavaScript 함수 | [웹 기초 예제](learning/web-basics.md) |
+| 웹 페이지 제작 | 반응형·기업형·모바일 레이아웃과 정보 탐색 페이지 | [rwd · jeju · funweb · mobile · Homework](learning/web-archive.md) |
+| Git · Markdown | 편집기 연결, 브랜치별 파일 작성, 자기소개 | [MyFirstProject · MyProfile-Web](learning/git-basics.md) |
 
 ## 기록 방식
 

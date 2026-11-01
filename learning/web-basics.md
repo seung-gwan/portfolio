@@ -26,4 +26,20 @@
 
 근거: [Web_Lecture의 예제 파일](https://github.com/seung-gwan/Web_Lecture).
 
+## 이전 학습 예제 — WEB
+
+[WEB 저장소](https://github.com/seung-gwan/WEB)에는 HTML 파일 86개와 관련 이미지가 보관되어 있습니다.
+HTML 기초와 장별 JavaScript 실습을 모은 기록입니다.
+
+| 주제 | 예제 경로 |
+| --- | --- |
+| 기본 문서·목록·표 | [01HTML](https://github.com/seung-gwan/WEB/tree/master/01HTML) |
+| 조건문 | [ch03](https://github.com/seung-gwan/WEB/tree/master/ch03) |
+| 반복문과 흐름 제어 | [ch04](https://github.com/seung-gwan/WEB/tree/master/ch04) |
+| 배열 | [ch05](https://github.com/seung-gwan/WEB/tree/master/ch05) |
+| 함수 | [ch06](https://github.com/seung-gwan/WEB/tree/master/ch06) |
+
+실습 파일의 이름과 코드를 차례로 살펴볼 수 있도록 원본 폴더로 연결했습니다.
+레이아웃을 페이지로 적용한 결과는 [웹 페이지 제작 실습](web-archive.md), 지역·분야별 페이지를 연결한 과제는 [Homework](web-archive.md#정보-탐색-웹-과제--homework)에 정리했습니다.
+
 [학습 목록](README.md)
