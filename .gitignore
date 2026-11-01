@@ -1,0 +1,25 @@
+# Local tools and build output
+*.class
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local credentials and raw materials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Large generated assets
+*.pth
+*.pt
+*.zip
+Library/
+Temp/
+Logs/
+obj/
+bin/
